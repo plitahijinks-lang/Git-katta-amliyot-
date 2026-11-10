@@ -54,3 +54,9 @@
 .form >input{
     width:200px;
 }
+.button2{
+    border: none;
+    border-radius: 12px;
+    background-color: aqua;
+    color: black;
+}
